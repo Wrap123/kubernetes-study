@@ -1,4 +1,4 @@
-   # kubernetes-study
+   # kubernetes-nfs_storageclass-study
 #部署顺序  
 1、rbac  
 2、nfs-client-provisioner  
