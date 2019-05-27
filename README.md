@@ -1,5 +1,5 @@
    # kubernetes-study
-#部署顺序
+#部署顺序  
 1、rbac  
 2、nfs-client-provisioner  
 3、storageclass  
